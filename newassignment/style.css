@@ -1,0 +1,51 @@
+.banner {
+
+    border: 1px solid black;
+
+    text-align: center;
+
+}
+
+
+
+
+.navigation {
+
+    text-align: center;
+
+}
+
+
+
+
+.navigation a {
+
+    text-decoration: none;
+
+    color: black;
+
+    margin: 0 10px;
+
+}
+
+
+
+
+.product-images img {
+
+    border: 1px solid black;
+
+    margin: 0 10px;
+
+}
+
+
+
+
+.page-heading {
+
+    color: green;
+
+    font-size: 20pt;
+
+}

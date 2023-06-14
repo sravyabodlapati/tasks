@@ -1,0 +1,163 @@
+
+
+#banner {
+
+  background-color: skyblue;
+
+  padding: 10px;
+
+  color: #ffffff;
+
+  display: flex;
+
+  justify-content: space-between;
+
+}
+
+
+
+
+.contact-details {
+
+  text-align: right;
+
+  font-size: large;
+
+}
+
+
+
+
+.menu a {
+
+  color: #ffffff;
+
+  margin: 0 10px;
+
+  text-decoration: none;
+
+}
+
+
+
+
+.image-gallery {
+
+  display: flex;
+
+  justify-content: center;
+
+  flex-wrap: wrap;
+
+  margin-bottom: 20px;
+
+}
+
+
+
+
+.image-gallery img {
+
+  width: 200px;
+
+  height: 150px;
+
+  margin: 10px;
+
+}
+
+
+
+
+#sidebar {
+
+  background-color: rgb(197, 114, 193);
+
+  width: 70%;
+
+  padding: 20px;
+
+  float: center;
+
+  border-radius: 10px;
+
+
+
+
+ 
+
+
+
+
+
+}
+
+ 
+
+h2{
+
+  text-align: center;
+
+ 
+
+color: #FFFFFF;
+
+background:15px #de7373;
+
+text-shadow: #474747 3px 5px 2px;
+
+}
+
+ 
+
+
+
+
+#sidebar h3 {
+
+  margin-top: 0;
+
+}
+
+
+
+
+#sidebar ul li {
+
+  list-style-type: none;
+
+  margin-bottom: 5px;
+
+ 
+
+}
+
+
+
+
+#sidebar ul li a:hover {
+
+  background-color: grey;
+
+  color: #84b9da;
+
+}
+
+
+
+
+footer {
+
+  background-color: #bdd749;
+
+  padding: 10px;
+
+  color: #ffffff;
+
+  text-align: center;
+
+}
+
+
+
+
